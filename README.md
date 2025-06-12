@@ -106,20 +106,3 @@ print(text)
 
 이 결과는 제안된 KcELECTRA 모델이 준비된 테스트 환경뿐만 아니라, **완전히 새롭고 예측 불가능한 실제 데이터에 대해서도 매우 안정적이고 신뢰도 높은 탐지 성능을 유지**함을 보여줍니다. 이는 모델의 강력한 일반화 성능을 입증하는 중요한 지표입니다.
 
-## 💬 인용
-본 연구가 도움이 되셨다면, 아래와 같이 논문을 인용해 주세요.
-
-```bibtex
-@article{kim2025deep,
-  title={Deep Learning-Based Natural Language Processing Model and Optical Character Recognition for Detection of Online Grooming on Social Networking Services},
-  author={Kim, Sangmin and Lee, Byeongcheon and Maqsood, Muazzam and Moon, Jihoon and Rho, Seungmin},
-  journal={Computer Modeling in Engineering \& Sciences},
-  volume={TBD},
-  number={TBD},
-  pages={TBD},
-  year={2025},
-  publisher={Tech Science Press},
-  doi={10.32604/cmes.2025.061653}
-}
-```
-
