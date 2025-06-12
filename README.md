@@ -47,7 +47,7 @@ import pytesseract
 
 # Windows 사용자의 경우
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-path = './test.jpg'
+path = './ocr_test2.jpg'
 image = cv2.imread(path)
 rgb_image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
